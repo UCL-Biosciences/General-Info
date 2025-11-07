@@ -1,5 +1,5 @@
 # Copy this file to events/YYYY-MM-DD-short-title.yaml and edit.
-id: Biosciences Comp Training (Capacity Reached)
+id: "Biosciences Comp Training (Capacity Reached)"
 
 # Required
 title: Biosciences Computational Training
@@ -17,4 +17,4 @@ registration_link:
 contact: james.d.gilbert@ucl.ac.uk
 
 # Short markdown description
-summary: Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research.
+summary: "Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research."
