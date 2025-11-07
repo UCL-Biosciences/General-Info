@@ -17,4 +17,6 @@ registration_link:
 contact: james.d.gilbert@ucl.ac.uk
 
 # Short markdown description
-summary: "Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research."
+summary: |
+  Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft.
+  Covering fundamental skills for comp bio research.
