@@ -1,0 +1,43 @@
+name: Update events table
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'events/**'
+      - 'events/scripts/update_events.py'
+      - 'README.md'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Run updater
+        run: python events/scripts/update_events.py
+
+      - name: Commit changes
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "auto: update events table and archive old events"
+            git push
+          else
+            echo "No changes to commit"
