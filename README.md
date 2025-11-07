@@ -16,7 +16,11 @@ Contact us early in your project to discuss requirements or explore automation a
 
 ## Events
 
-The table below lists upcoming and recent events. It is automatically generated from individual event files in the `events/` folder. To add an event follow the instructions in `events/add-an-event.md`. A GitHub Action will update this table automatically. 
+The table below lists upcoming and recent events. It is automatically generated from individual event files in the `events/` folder. To add an event follow the instructions in `events/add-an-event.md`. A GitHub Action will update this table automatically.
+
+<!-- EVENTS:START -->
+...
+<!-- EVENTS:END -->
 
 ## Contacts
 
