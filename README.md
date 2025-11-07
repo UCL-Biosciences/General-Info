@@ -1,5 +1,24 @@
 # UCL Biosciences Computational Research Support
-This repository provides information about computational research support activities in UCL's Division of Biosciences. It is intended as a reference point for internal collaborators and external visitors who want to understand our scope, events, and how to engage with us:
+Welcome to UCL Biosciences' github homepage, where we store Divsion-related code, training material and other information.
+
+[This repository](https://github.com/UCL-Biosciences/Biosciences-Comp-Support) provides information about computational research support activities in UCL's Division of Biosciences. It is intended as a reference point for internal collaborators and external visitors who want to understand our scope, events, and how to engage with us.
+
+## What is in the Biosciences github?
+This GitHub organisation hosts shared computational resources for the division. It brings together:
+- **Code for common pipelines** – maintained repositories implementing standard workflows (e.g. proteomics, methylation, image analysis).
+- **Training materials** – reproducible tutorials, HPC and data analysis guides, and examples for core bioinformatics methods.
+- **Shared utilities** – tools, templates, and environment files for analysis and reporting.
+- **Reference documentation** – best practices, coding standards, and contribution guidelines.
+- **Key project repositories** – links to active collaborations and their codebases.
+
+We aim to make research computing more **efficient, collaborative, and reproducible** by reducing duplication, promoting shared development, and spreading good practice across teams.
+
+## How do I contribute?
+Contributions are welcome from all Biosciences staff and collaborators. Repositories within the organisation follow standard GitHub workflows — create a fork or branch, submit a pull request, and use issues for discussion. We can also discuss the transfer of existing repositories here if they are maintained collaboratively or support shared analysis.
+
+For general requests, questions, or ideas (e.g. training needs, new tools, or pipeline improvements), please open an [issue in the computational support repository](https://github.com/UCL-Biosciences/Biosciences-Comp-Support/issues). This provides a single point for tracking and coordinating work across projects.
+
+All contributions should follow the relevant repository’s README and contribution guidelines.
 
 ## Computational Support
 The Data Science team helps researchers across UCL Biosciences to plan, run, and maintain computational analyses. We focus on building sustainable and reproducible workflows, improving data management, and supporting skills development.
@@ -42,6 +61,6 @@ Team: Biosciences Data Science
 
 Email: james.d.gilbert@ucl.ac.uk
 
-More information: For information about Computational Biology in the Division, visit the [Computational Biology webpage](https://www.ucl.ac.uk/life-sciences/biosciences/computational-biology).
+More Biosciences information: For information about Computational Biology in the Division, visit the [Computational Biology webpage](https://www.ucl.ac.uk/life-sciences/biosciences/computational-biology).
 
 Computational Research at UCL: [ARC](https://www.ucl.ac.uk/advanced-research-computing/) is UCL's research, innovation and service centre for the tools, practices and systems that enable computational science and digital scholarship. 
