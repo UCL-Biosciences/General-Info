@@ -19,7 +19,19 @@ Contact us early in your project to discuss requirements or explore automation a
 The table below lists upcoming and recent events. It is automatically generated from individual event files in the `events/` folder. To add an event follow the instructions in `events/add-an-event.md`. A GitHub Action will update this table automatically.
 
 <!-- EVENTS:START -->
-...
+
+### Upcoming
+
+| Date | Title | Location | Description | Link |
+|------|-------|----------|-------------|------|
+| – | – | – | – | – |
+
+### Recent Past (last 90 days)
+
+| Date | Title | Location | Description | Link |
+|------|-------|----------|-------------|------|
+| 2025-11-05 | Biosciences Computational Training | UCL Bloomsbury Campus | Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research. | [link](https://ucl-biosciences.github.io/2025-11-03-Biosciences/) |
+
 <!-- EVENTS:END -->
 
 ## Contacts
