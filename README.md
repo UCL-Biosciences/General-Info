@@ -30,7 +30,7 @@ The table below lists upcoming and recent events. It is automatically generated 
 
 | Date | Title | Location | Description | Link |
 |------|-------|----------|-------------|------|
-| 2025-11-05 | Biosciences Computational Training | UCL Bloomsbury Campus | Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research. | [link](https://ucl-biosciences.github.io/2025-11-03-Biosciences/) |
+| 2025-11-05 | Biosciences Computational Training  (Capacity Reached) | UCL Bloomsbury Campus | Computational training delivered by Biosciences, ARC, Learn To Discover and Microsoft. Covering fundamental skills for comp bio research. | [link](https://ucl-biosciences.github.io/2025-11-03-Biosciences/) |
 
 <!-- EVENTS:END -->
 
