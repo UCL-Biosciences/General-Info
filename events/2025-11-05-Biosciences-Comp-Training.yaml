@@ -1,8 +1,8 @@
 # Copy this file to events/YYYY-MM-DD-short-title.yaml and edit.
-id: "Biosciences Comp Training (Capacity Reached)"
+id: "Biosciences Comp Training"
 
 # Required
-title: Biosciences Computational Training
+title: "Biosciences Computational Training  (Capacity Reached)"
 start: 2025-11-05
 timezone: Europe/London
 location: UCL Bloomsbury Campus
