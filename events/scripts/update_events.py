@@ -38,7 +38,7 @@ def load_events():
     if not EVENTS_DIR.exists():
         return []
     events = []
-    for path in EVENTS_DIR.glob("*.yaml"):
+    for path in EVENTS_DIR.glob("[0-9]*.yaml"):
         data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
         title = data.get("title")
         start_raw = data.get("start")
