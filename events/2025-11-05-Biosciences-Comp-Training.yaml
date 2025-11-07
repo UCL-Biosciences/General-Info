@@ -1,0 +1,21 @@
+# Copy this file to events/YYYY-MM-DD-short-title.yaml and edit.
+id: Biosciences Comp Training (Capacity Reached)
+
+# Required
+title: Biosciences Computational Training
+start: 2025-11-05
+timezone: Europe/London
+location: UCL Bloomsbury Campus
+
+
+# Optional but recommended
+end:
+organiser: James Gilbert
+audience: Biosciences researchers
+link: https://ucl-biosciences.github.io/2025-11-03-Biosciences/
+registration_link:
+contact: james.d.gilbert@ucl.ac.uk
+
+# Short markdown description
+summary: |
+Short abstract or blurb in one or two sentences.
