@@ -1,5 +1,5 @@
-# UCL Biosciences Computational Research Support
-Welcome to UCL Biosciences' github homepage, where we store Divsion-related code, training material and other information.
+# UCL Biosciences Computational Research
+Welcome to UCL Biosciences' github, where we store Divsion-related code, training material and other information.
 
 [This repository](https://github.com/UCL-Biosciences/Biosciences-Comp-Support) provides information about computational research support activities in UCL's Division of Biosciences. It is intended as a reference point for internal collaborators and external visitors who want to understand our scope, events, and how to engage with us.
 
