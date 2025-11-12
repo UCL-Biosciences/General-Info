@@ -1,0 +1,25 @@
+# Copy the contents of this file to a new file called events/YYYY-MM-DD-short-title.yaml and edit.
+id: Step Up Training 2025
+
+# Required
+title: STEP-UP Software Carpentry workshops: Shell, Git, and Python for Research
+start: 2025-12-08
+timezone: Europe/London
+location: Online
+
+
+# Optional but recommended
+end: 2025-12-10
+organiser: Step-Up
+audience: Researchers interested in coding, version control and reproducibility
+link:
+registration_link: https://forms.office.com/e/Z37ZtE34wm
+contact:
+
+# Short markdown description. Use lines below | and make sure all lines start with 2 spaces
+summary: |
+  These Software Carpentry workshops are designed for researchers with some experience working with data, software, or computing infrastructure who want to strengthen their command-line, version control, and Python programming skills for more efficient and reproducible research.
+  What you’ll gain:
+    Proficiency in using the Unix shell for automation and file management
+    Practical experience with Git for version control and collaborative development
+    A solid foundation in Python for data analysis and scripting workflows
